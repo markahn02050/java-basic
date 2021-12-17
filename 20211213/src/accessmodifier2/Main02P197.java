@@ -1,0 +1,15 @@
+package accessmodifier2;
+
+public class Main02P197 {
+
+	public static void main(String[] args) {
+		
+		
+		
+		
+		
+		
+
+	}
+
+}

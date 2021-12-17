@@ -1,0 +1,21 @@
+package game.interaction;
+
+public class Monster {
+	
+	private int hp;
+	private int atk;
+	private int def;
+	
+	public Monster() {
+		
+		this.hp = 15;
+		this.atk = 2;
+		this.def = 0;
+	}
+	
+	
+	
+	
+	
+
+}

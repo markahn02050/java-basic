@@ -1,0 +1,23 @@
+package constructor;
+
+public class Webtoon {
+	
+	public String name;
+	public int series;
+	public String painter;
+	public boolean complete;
+	
+	public Webtoon() {
+		
+		
+		
+		
+		
+		
+	}
+	
+	
+	
+	
+
+}

@@ -1,0 +1,41 @@
+package superclass;
+
+public class Airplane {
+	
+	private int speed;
+	
+	public Airplane(int speed) {
+		
+		
+		this.speed = speed;
+		
+	}
+	
+	// fly()메서드를 정의하는데 속도가 500씩 붙습니다.
+	// 단, 일반 비행기는 속도가 900초과일 수 없습니다.
+	public void fly() {
+		
+		if((speed + 500) > 900) {
+			
+			speed = 900;		
+		}
+		
+		else {
+			
+			speed += 500;
+		}
+			
+	}
+	
+	public void breakSpeed() {
+		
+		if((speed - 100) < 0) {
+			
+			speed = 0;
+			
+		}
+		
+	}
+	
+
+}

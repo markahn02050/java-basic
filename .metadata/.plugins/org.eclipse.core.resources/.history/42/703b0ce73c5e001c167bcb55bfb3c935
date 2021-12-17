@@ -1,0 +1,43 @@
+package interaction;
+
+public class Buyer {
+	
+	private int money;
+	private int nowMango;
+	
+	public Buyer(int money, int mango) {			
+		
+		this.money = money;
+		
+		this.nowMango = mango;
+		
+	}
+	
+	public void BuyMango(Seller mango) {
+		
+		if(this.money > 0) {
+			
+			this.nowMango += mango.getMango();
+				
+			this.money -= mango.getMango() * 1000;
+			
+		}
+		
+		else {
+			
+			System.out.println("돈이 모자랍니다.");
+			
+		}
+		
+		
+	}
+
+	public void showBuyer() {
+		
+		System.out.println("========구매자정보========");
+		System.out.println("현재소지금: " + this.money + ", 구입한망고개수: " + this.nowMango);
+		System.out.println("=======================");
+	}
+	
+
+}

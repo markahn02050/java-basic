@@ -1,0 +1,30 @@
+package superclass;
+
+public class Airplane {
+	
+	private int speed;
+	
+	public Airplane(int speed) {
+		
+		
+		this.speed = speed;
+		
+	}
+	
+	public void fly() {
+		
+		
+		speed += 500;
+		
+		
+	}
+	
+	public void breakSpeed() {
+		
+		if(speed >= 0)
+			speed -= 100;		
+		
+	}
+	
+
+}

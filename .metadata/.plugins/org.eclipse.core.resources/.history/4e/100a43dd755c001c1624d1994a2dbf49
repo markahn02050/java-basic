@@ -1,0 +1,12 @@
+package overriding;
+
+public class Panda extends Animal {
+	
+	int offspring;
+	
+	
+	
+	
+	
+
+}

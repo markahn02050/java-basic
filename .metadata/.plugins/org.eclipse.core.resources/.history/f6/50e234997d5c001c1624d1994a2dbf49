@@ -1,0 +1,20 @@
+package overriding;
+
+public class Main01P265 {
+
+	public static void main(String[] args) {
+		// 판다와 호랑이를 생성해보겠습니다.
+		
+		Panda p1 = new Panda();
+		p1.howl();
+		
+		Tiger t1 = new Tiger();
+		t1.howl();
+		
+		
+		
+		
+
+	}
+
+}

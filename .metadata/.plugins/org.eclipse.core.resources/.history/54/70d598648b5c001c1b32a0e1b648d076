@@ -1,0 +1,15 @@
+package overloading;
+
+public class Parttimer {
+	// 파트타이머의 정보
+	// 오전여부, 시급, 가게명, 본인이름
+	private boolean afternoon; //true면 오후, false면 오전
+	private int pay; // 시급
+	private String shopName;
+	private String name;
+	
+	
+	
+	
+
+}

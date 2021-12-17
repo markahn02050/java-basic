@@ -1,0 +1,23 @@
+package game.polymorphism;
+
+// 모든 사냥감의 뼈대가 되는 클래스
+public class Monster {
+	
+	// name(몬스터종류), hp, mp, atk
+	
+	private String name;
+	private int hp;
+	private int mp;
+	
+	// Constructor
+	public Monster(String name, int hp, int mp) {
+		
+		this.name = name;
+		this.hp = hp;
+		this.mp = mp;
+			
+	}
+	
+	
+
+}

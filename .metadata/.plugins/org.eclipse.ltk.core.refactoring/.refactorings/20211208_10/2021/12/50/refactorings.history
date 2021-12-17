@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;Constructor&apos; to &apos;constructor&apos;&#x0D;&#x0A;- Original project: &apos;20211208_10&apos;&#x0D;&#x0A;- Original element: &apos;20211208_10/src/Constructor&apos;&#x0D;&#x0A;- Renamed element: &apos;20211208_10/src/constructor&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;Constructor&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;Constructor" name="constructor" qualified="false" references="true" stamp="1639113842815" textual="false" version="1.0"/>
+</session>

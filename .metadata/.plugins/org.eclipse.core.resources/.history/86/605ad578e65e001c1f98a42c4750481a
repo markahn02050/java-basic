@@ -1,0 +1,13 @@
+package polymorphism;
+
+public class Doctor extends Person{
+	
+	public Doctor(String name, int age) {
+		
+		super(name, age);
+	}
+	
+	
+	
+
+}

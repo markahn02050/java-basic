@@ -1,0 +1,22 @@
+package superclass;
+
+public class Airplane {
+	
+	private int speed;
+	
+	public Airplane(int speed) {
+		
+		
+		this.speed = speed;
+		
+	}
+	
+	public void fly() {
+		
+		
+		
+		
+	}
+	
+
+}

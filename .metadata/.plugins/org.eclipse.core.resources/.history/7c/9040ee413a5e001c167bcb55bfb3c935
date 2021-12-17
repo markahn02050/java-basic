@@ -1,0 +1,29 @@
+package interaction;
+
+public class Buyer {
+	
+	private int money;
+	private int nowMango;
+	
+	public Buyer(int money) {			
+		
+		this.money = money;
+		
+	}
+	
+	public void BuyMango(Mango mango) {
+		
+		if(this.money > 0) {
+			
+			nowMango = mango.getMango() + 1;
+				
+			
+			
+		}
+		
+		
+		
+	}
+	
+
+}

@@ -1,0 +1,17 @@
+package accessmodifier;
+
+public class Warrior {
+	// hp, mp, lv, atk, def, exp, name;
+	// 선언
+	public String name;
+	public int hp;
+	public int mp;
+	public int lv;
+	public int atk;
+	public int def;
+	public int exp;
+	
+	
+	
+
+}
