@@ -1,7 +1,0 @@
-package game.accessmodifier;
-
-public class Magician extends Commoner {
-	
-	
-
-}
