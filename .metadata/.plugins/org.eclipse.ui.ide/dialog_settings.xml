@@ -25,4 +25,8 @@
 			<item value="C:\Users\Mark Ahn\Desktop\교육과정\20211216과제\20211216(강사).zip"/>
 		</list>
 	</section>
+	<section name="ChooseWorkspaceDialogSettings">
+		<item key="DIALOG_X_ORIGIN" value="333"/>
+		<item key="DIALOG_Y_ORIGIN" value="516"/>
+	</section>
 </section>
