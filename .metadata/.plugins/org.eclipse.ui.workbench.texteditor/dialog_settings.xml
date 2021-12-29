@@ -8,6 +8,7 @@
 		<item key="isRegEx" value="false"/>
 		<item key="selection" value="pi"/>
 		<list key="findhistory">
+			<item value="i"/>
 			<item value="pi"/>
 		</list>
 		<list key="replacehistory">
