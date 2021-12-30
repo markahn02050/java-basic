@@ -21,6 +21,8 @@
 		<item key="SmartImportRootWizardPage.STORE_NESTED_PROJECTS" value="true"/>
 		<item key="SmartImportRootWizardPage.STORE_CONFIGURE_NATURES" value="true"/>
 		<list key="org.eclipse.ui.internal.wizards.datatransfer.SmartImportRootWizardPage.knownSources">
+			<item value="C:\Users\Mark Ahn\Desktop\20211229 master.zip"/>
+			<item value="C:\Users\Mark Ahn\Desktop\20211229(강사).zip"/>
 			<item value="C:\Users\Mark Ahn\Desktop\교육과정\20211220(강사).zip"/>
 			<item value="C:\Users\Mark Ahn\Desktop\교육과정\20211216과제\20211216(강사).zip"/>
 		</list>
