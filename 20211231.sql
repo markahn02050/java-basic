@@ -53,7 +53,7 @@ CREATE TABLE buyTbl(
 	order_number INT AUTO_INCREMENT primary key,
     user_id varchar(8) not null,
     prod_name varchar(6) not null,
-    group_name varchar(),
+    group_name varchar(10),
     price int(7) not null,
     amount int(3) not null,
 	foreign key(user_id) references userTbl(user_id)
