@@ -60,10 +60,10 @@ CREATE TABLE buyTbl(
 
 );
 
-INSERT INTO userTbl VALUES('AHC', '안해찬', 1999, '서울', 01111111111, 185, '2021-12-31');
-INSERT INTO userTbl VALUES('AAC', '안해춘', 1985, '경기', 01111112551, 183, '2021-12-31');
-INSERT INTO userTbl VALUES('SHM', '손흥민', 1985, '런던', 01134252551, 182, '2021-12-31');
-INSERT INTO userTbl VALUES('EM', '일론머스크', 1980, '뉴욕', 01162614261, 170, '2021-12-31');
+INSERT INTO userTbl VALUES('AHC', '안해찬', 1999, '서울', '01111111111', 185, '2021-12-31');
+INSERT INTO userTbl VALUES('AAC', '안해춘', 1985, '경기', '01111112551', 183, '2021-12-31');
+INSERT INTO userTbl VALUES('SHM', '손흥민', 1985, '런던', '01134252551', 182, '2021-12-31');
+INSERT INTO userTbl VALUES('EM', '일론머스크', 1980, '뉴욕', '01162614261', 170, '2021-12-31');
 SELECT * FROM userTbl;
 
 -- 가입한 회원이 물건을 산 이력이 남도록 하겠습니다.
