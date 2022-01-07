@@ -124,3 +124,5 @@ SELECT * FROM student s LEFT OUTER JOIN membership m ON s.user_name = m.user_nam
 
 -- 위의 UNION으로 처리되는 구문은 user_name이 두번 출력되는 문제가 있습니다.
 -- 한번만 출력되게 만들어보세요.
+
+
